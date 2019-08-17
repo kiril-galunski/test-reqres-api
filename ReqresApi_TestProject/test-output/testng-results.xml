@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6718" started-at="2019-08-16T16:13:13Z" finished-at="2019-08-16T16:13:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6718" started-at="2019-08-16T16:13:13Z" finished-at="2019-08-16T16:13:20Z">
+      <class name="testReqres.TestReqres">
+        <test-method status="PASS" signature="TestReqres_Delete()[pri:0, instance:testReqres.TestReqres@548e7350]" name="TestReqres_Delete" duration-ms="5228" started-at="2019-08-16T16:13:14Z" finished-at="2019-08-16T16:13:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestReqres_Delete -->
+        <test-method status="PASS" signature="TestReqres_Get_Call()[pri:0, instance:testReqres.TestReqres@548e7350]" name="TestReqres_Get_Call" duration-ms="245" started-at="2019-08-16T16:13:19Z" finished-at="2019-08-16T16:13:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestReqres_Get_Call -->
+        <test-method status="PASS" signature="TestReqres_Get_Check()[pri:0, instance:testReqres.TestReqres@548e7350]" name="TestReqres_Get_Check" duration-ms="6" started-at="2019-08-16T16:13:19Z" finished-at="2019-08-16T16:13:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestReqres_Get_Check -->
+        <test-method status="PASS" signature="TestReqres_Patch()[pri:0, instance:testReqres.TestReqres@548e7350]" name="TestReqres_Patch" duration-ms="376" started-at="2019-08-16T16:13:19Z" finished-at="2019-08-16T16:13:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestReqres_Patch -->
+        <test-method status="PASS" signature="TestReqres_Post()[pri:0, instance:testReqres.TestReqres@548e7350]" name="TestReqres_Post" duration-ms="345" started-at="2019-08-16T16:13:20Z" finished-at="2019-08-16T16:13:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestReqres_Post -->
+        <test-method status="PASS" signature="TestReqres_Put()[pri:0, instance:testReqres.TestReqres@548e7350]" name="TestReqres_Put" duration-ms="312" started-at="2019-08-16T16:13:20Z" finished-at="2019-08-16T16:13:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestReqres_Put -->
+      </class> <!-- testReqres.TestReqres -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
