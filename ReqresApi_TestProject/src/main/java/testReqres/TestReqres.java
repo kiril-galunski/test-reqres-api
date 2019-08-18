@@ -3,6 +3,7 @@ package testReqres;
 
 import org.json.simple.JSONObject;
 // import org.junit.BeforeClass; - not used, explained below
+
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import io.restassured.RestAssured;
